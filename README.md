@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/0gzDnLh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create multiple issues to resolve in osTicket.
+Generate multiple tickets in osTicket to address various issues.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ Create multiple issues to resolve in osTicket.
 <img src="https://i.imgur.com/ykYBzsD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
-Adjust priority, department, and SLA then assign issue to a team.
+First, adjust the priority, department, and SLA of the issue. Then, assign it to a team.
 </p>
 <br />
 
@@ -48,6 +48,6 @@ Adjust priority, department, and SLA then assign issue to a team.
 <img src="https://i.imgur.com/Q2kFb6Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Resolve each ticket as it applies to the issue and the team it was assigned to.
+Resolve each ticket assigned to its respective team and issue.
 </p>
 <br />
