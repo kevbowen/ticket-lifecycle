@@ -34,7 +34,7 @@ Create multiple issues to resolve in osTicket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/dzAtHyc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/N8yvcTg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/T7TUhuW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/jtaDGmj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ykYBzsD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
